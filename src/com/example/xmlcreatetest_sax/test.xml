@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+    <group
+        name="一年级"
+        num="10" >
+        <person
+            name="小明"
+            age="7" >
+            <chinese>
+chinises 9
+            </chinese>
+            <music>
+music 80
+            </music>
+        </person>
+    </group>
+</classes>
